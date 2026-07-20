@@ -1,0 +1,10 @@
+node_modules/
+dist/
+cache/
+dist-nw/
+demo/node_modules/
+demo/dist/
+demo/cache/
+demo/dist-nw/
+demo/release/
+demo/installer/

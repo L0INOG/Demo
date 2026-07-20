@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "md-to-docx": "^1.6.1"
+  }
+}
