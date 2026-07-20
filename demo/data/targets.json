@@ -1,0 +1,44 @@
+{
+  "presets": {
+    "close_large": {
+      "name": "Close Range - Large",
+      "size": 0.55,
+      "innerSize": 0.1,
+      "distance": 15,
+      "lifetime": 5000,
+      "score": 10,
+      "headshotMultiplier": 2.5,
+      "color": "#e63946",
+      "innerColor": "#ffd60a"
+    },
+    "mid_medium": {
+      "name": "Mid Range - Medium",
+      "size": 0.38,
+      "innerSize": 0.08,
+      "distance": 30,
+      "lifetime": 4000,
+      "score": 25,
+      "headshotMultiplier": 2.5,
+      "color": "#e63946",
+      "innerColor": "#ffd60a"
+    },
+    "far_small": {
+      "name": "Far Range - Small",
+      "size": 0.22,
+      "innerSize": 0.05,
+      "distance": 50,
+      "lifetime": 3500,
+      "score": 50,
+      "headshotMultiplier": 3.0,
+      "color": "#e63946",
+      "innerColor": "#ffd60a"
+    }
+  },
+  "spawnConfig": {
+    "maxActive": 8,
+    "spawnInterval": 800,
+    "spawnAreaWidth": 12,
+    "spawnAreaHeight": 6,
+    "minDistanceBetween": 1.2
+  }
+}
